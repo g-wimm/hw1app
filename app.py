@@ -7,7 +7,7 @@ st.set_page_config(page_title="LangGraph + Streamlit", page_icon="🧩")
 st.title("Homework 1")
 
 DEFAULT_BASE_URL = "http://127.0.0.1:2024"
-GRAPH_ID = "graph"  # from your langgraph.json
+GRAPH_ID = "key"  # from your langgraph.json
 
 # ----------------------------
 # Session state
