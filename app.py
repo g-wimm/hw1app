@@ -4,7 +4,7 @@ import uuid
 from typing import Optional, Dict, Any
 
 st.set_page_config(page_title="LangGraph + Streamlit", page_icon="🧩")
-st.title("Order Customer Support")
+st.title("Homework 1")
 
 DEFAULT_BASE_URL = "http://127.0.0.1:2024"
 GRAPH_ID = "agent"  # from your langgraph.json
